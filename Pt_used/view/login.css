@@ -1,0 +1,142 @@
+﻿#Container {
+    width: 1400px;
+    height: 800px;
+    background-image: url(../img/002.jpg);
+    margin: 0 auto;
+}
+/*主体框*/
+#top {
+    width: 1400px;
+    height: 120px;
+}
+/*顶部框*/
+#bodyer {
+    width: 1400px;
+    height: 600px;
+}
+/*内容框*/
+#left {
+    width: 300px;
+    height: 600px;
+    float: left;
+}
+/*将内容框夹在中间*/
+#middle {
+    width: 800px;
+    height: 600px;
+    float: left;
+}
+/*主题内容*/
+#right {
+    width: 300px;
+    height: 600px;
+    float: left;
+}
+
+#zhuti {
+    width: 800px;
+    height: 480px;
+}
+/*放置login和login的框*/
+#logo {
+    width: 300px;
+    height: 480px;
+    float: left;
+}
+/*logo框*/
+#login {
+    width: 496px;
+    height: 476px;
+    float: left;
+    border: 2px solid #000000;
+}
+/*登录内容框*/
+#login1 {
+    width: 500px;
+    height: 100px;
+}
+/*账号框*/
+#login2 {
+    width: 500px;
+    height: 100px;
+}
+/*密码框*/
+#login3 {
+    width: 500px;
+    height: 160px;
+}
+/*登录框*/
+#login4 {
+    width: 500px;
+    height: 120px;
+}
+/*注册框*/
+#login1_1 {
+    width: 310px;
+    height: 45px;
+    margin: 60px auto;
+}
+/*账号label的框*/
+#txtlogin1 {
+    width: 300px;
+    height: 40px;
+    font-size: 40px;
+}
+/*账号label*/
+#login2_1 {
+    width: 310px;
+    height: 45px;
+    margin: 0 auto;
+}
+/*密码label的框*/
+#txtlogin2 {
+    width: 300px;
+    height: 40px;
+    font-size: 40px;
+}
+/*账号label*/
+#login3_1 {
+    width: 240px;
+    height: 60px;
+    margin: 0 auto;
+}
+/*登录bt的框*/
+#btlogin3 {
+    width: 240px;
+    height: 60px;
+}
+/*登录bt*/
+#login4_1 {
+    width: 250px;
+    height: 120px;
+    float: left;
+}
+/*忘记密码的框*/
+#login4_11 {
+    width: 80px;
+    height: 30px;
+    margin: 0 auto;
+}
+/*忘记密码bt的框*/
+#btlogin4_1 {
+    width: 80px;
+    height: 30px;
+}
+/*忘记密码bt*/
+#login4_2 {
+    width: 250px;
+    height: 120px;
+    float: left;
+}
+/*注册的框*/
+#login4_21 {
+    width: 80px;
+    height: 30px;
+    margin: 0 auto;
+}
+/*注册bt的框*/
+#btlogin4_2 {
+    width: 80px;
+    height: 30px;
+}
+/*注册bt*/

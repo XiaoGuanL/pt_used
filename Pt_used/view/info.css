@@ -1,0 +1,247 @@
+﻿#container{
+    width:1400px;
+    height:800px;
+    margin:0 auto;
+    background-image:url(../img/002.jpg);
+ }
+#top {
+    width: 1400px;
+    height: 140px;
+    margin: 0 auto;
+}
+
+#title {
+    width: 1400px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#top1 {
+    width: 220px;
+    height: 70px;
+    margin: 20px auto auto 370px;
+    float: left;
+}
+
+#Bttop1 {
+    width: 220px;
+    height: 70px;
+    font-size: 50px;
+}
+
+#top2 {
+    width: 220px;
+    height: 70px;
+    margin: 20px auto auto 10px;
+    float: left;
+}
+
+#Bttop2 {
+    width: 220px;
+    height: 70px;
+    font-size: 50px;
+}
+
+#top3 {
+    width: 220px;
+    height: 70px;
+    margin: 20px auto auto 10px;
+    float: left;
+}
+
+#Bttop3 {
+    width: 220px;
+    height: 70px;
+    font-size: 50px;
+}
+
+#main {
+    width: 1400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#main_left {
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+
+#main_right {
+    width: 1200px;
+    height: 400px;
+    float: left;
+}
+
+#buttom {
+    width: 1400px;
+    height: 160px;
+}
+
+#main1 {
+    width: 500px;
+    height: 80px;
+}
+
+#main1_1 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px;
+}
+
+#main1_2 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+
+#lbmain1 {
+    width: 100px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#txtmain1 {
+    width: 250px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#main2 {
+    width: 500px;
+    height: 80px;
+}
+
+#main2_1 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px;
+}
+
+#main2_2 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+
+#lbmain2 {
+    width: 100px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#txtmain2 {
+    width: 250px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#main3 {
+    width: 500px;
+    height: 80px;
+}
+
+#main3_1 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px;
+}
+
+#main3_2 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+
+#lbmain3 {
+    width: 100px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#txtmain3 {
+    width: 250px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#main4 {
+    width: 500px;
+    height: 80px;
+}
+
+#main4_1 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px;
+}
+
+#main4_2 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+
+#lbmain4 {
+    width: 100px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#txtmain4 {
+    width: 250px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#main5 {
+    width: 500px;
+    height: 80px;
+}
+
+#main5_1 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px;
+}
+
+#main5_2 {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+
+#lbmain5 {
+    width: 100px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#txtmain5 {
+    width: 250px;
+    height: 40px;
+    font-size: 40px;
+}
+
+#buttom1 {
+    width: 100px;
+    height: 50px;
+    margin: 10px auto;
+}
+
+#btbuttom {
+    width: 100px;
+    height: 60px;
+    font-size: 40px;
+}
+

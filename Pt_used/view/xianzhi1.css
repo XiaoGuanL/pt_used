@@ -1,0 +1,276 @@
+﻿#Container {
+    width: 1400px;
+    height: 800px;
+    background-image: url(../img/002.jpg);
+    margin: 0 auto;
+}
+
+#top {
+    width: 1400px;
+    height: 200px;
+    align-content: center;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+/*logo框*/
+#title {
+    width: 1000px;
+    height: 200px;
+    float: left;
+}
+/*顶部logo右边的框*/
+#xianzhi {
+    background-color: aqua;
+    width: 400px;
+    border: 5px solid green;
+    height: 140px;
+    margin: 40px auto;
+}
+/*调整闲置label的框*/
+#lbxianzhi {
+    font-size: 100px;
+    align-items: center;
+}
+/*闲置label*/
+#body {
+    height: 460px;
+    width: 1400px;
+}
+/*输入物品信息总体框*/
+#left {
+    width: 700px;
+    height: 460px;
+    float: left;
+}
+/*输入物品信息左边的框*/
+#right {
+    width: 700px;
+    height: 460px;
+    float: left;
+}
+/*输入物品信息右边的框*/
+#name1 {
+    width: 690px;
+    height: 100px;
+}
+/*物品名称*/
+#name1_1 {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+/*调整包含物品名称label和txtebox的框*/
+#name1_2 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 20px auto auto 10px;
+}
+/*物品名称label的框*/
+#name1_3 {
+    width: 220px;
+    height: 50px;
+    float: left;
+    margin: 25px auto auto auto;
+}
+/*物品名称txtbox的框*/
+#lbname {
+    font-size: 30px;
+}
+/*物品名称label*/
+#txtname {
+    width: 200px;
+    height: 30px;
+}
+/*物品名称txtbox*/
+#leibie {
+    width: 690px;
+    height: 100px;
+}
+/*物品类别*/
+#leibie1 {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+/*调整包含物品类别label和txtebox的框*/
+#leibie1_1 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 20px auto auto 10px;
+}
+/*物品类别label的框*/
+#leibie1_2 {
+    width: 220px;
+    height: 50px;
+    float: left;
+    margin: 25px auto auto auto;
+}
+/*物品类别txtbox的框*/
+#lbleibie {
+    font-size: 30px;
+}
+/*物品类别label*/
+#txtleibie {
+    width: 200px;
+    height: 30px;
+}
+/*物品类别txtbox*/
+#jiage {
+    width: 690px;
+    height: 100px;
+}
+/*价格*/
+#jiage1 {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+/*调整包含价格label和txtebox的框*/
+#jiage1_1 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 20px auto auto 10px;
+}
+/*价格label的框*/
+#jiage1_2 {
+    width: 220px;
+    height: 50px;
+    float: left;
+    margin: 25px auto auto auto;
+}
+/*价格txtbox的框*/
+#lbjiage {
+    font-size: 30px;
+}
+/*价格label*/
+#txtjiage {
+    width: 200px;
+    height: 30px;
+}
+/*价格txtbox*/
+#miaoshu {
+    width: 690px;
+    height: 100px;
+}
+/*物品描述*/
+#miaoshu1 {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+/*调整包含物品描述label和txtebox的框*/
+#miaoshu1_1 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 20px auto auto 10px;
+}
+/*物品描述label的框*/
+#miaoshu1_2 {
+    width: 220px;
+    height: 50px;
+    float: left;
+    margin: 25px auto auto auto;
+}
+/*物品描述txtbox的框*/
+#lbmiaoshu {
+    font-size: 30px;
+}
+/*物品描述label*/
+#txtmiaoshu {
+    width: 200px;
+    height: 30px;
+}
+/*物品描述txtbox*/
+#chengdu {
+    width: 690px;
+    height: 100px;
+}
+/*新旧程度*/
+#chengdu1 {
+    width: 400px;
+    height: 100px;
+}
+/*调整包含新旧程度label和txtebox的框*/
+#chengdu1_1 {
+    width: 150px;
+    height: 50px;
+    float: left;
+    margin: 20px auto auto 10px;
+}
+/*新旧程度label的框*/
+#chengdu1_2 {
+    width: 220px;
+    height: 50px;
+    float: left;
+    margin: 25px auto auto auto;
+}
+/*新旧程度txtbox的框*/
+#lbchengdu {
+    font-size: 30px;
+}
+/*新旧程度label*/
+#txtchengdu {
+    width: 200px;
+    height: 30px;
+}
+/*新旧程度txtbox*/
+#photo {
+    width: 690px;
+    height: 200px;
+}
+/*添加照片总体框*/
+#photo1 {
+    width: 680px;
+    height: 100px;
+}
+/*添加照片 label和fileload*/
+#photo1_1 {
+    width: 220px;
+    height: 50px;
+    float: left;
+}
+/*添加照片label的框*/
+#photo1_2 {
+    width: 220px;
+    height: 50px;
+    float: left;
+}
+/*添加照片fileloa的框d*/
+#photo2 {
+    width: 680px;
+    height: 100px;
+}
+/*添加照片button的框*/
+#lbphoto {
+    font-size: 30px;
+}
+/*添加照片的label*/
+#upphoto {
+    width: 200px;
+    height: 30px;
+}
+/*添加照片的fileload*/
+#btphoto {
+    width: 100px;
+    height: 40px;
+}
+/*添加照片的button*/
+#fabu {
+    width: 150px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+#btfabu {
+    width: 150px;
+    height: 80px;
+}

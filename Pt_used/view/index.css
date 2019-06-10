@@ -1,0 +1,236 @@
+﻿#container {
+    width: 1400px;
+    height: 900px;
+    margin: 0 auto;
+    background-image: url(../img/002.jpg);
+}
+/*主体框*/
+#top {
+    width: 1400px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+#title {
+    width: 1400px;
+    height: 80px;
+    margin: 0 auto;
+}
+/*导航栏*/
+#title1 {
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin: 10px auto auto 200px;
+}
+
+#bttitle1 {
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+}
+
+#title2 {
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin: 10px;
+}
+
+#bttitle2 {
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+}
+
+#title3 {
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin: 10px;
+}
+
+#bttitle3 {
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+}
+
+#title4 {
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin: 10px;
+}
+
+#bttitle4 {
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+}
+
+#title5 {
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin: 10px;
+}
+
+#bttitle5 {
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+}
+
+#main {
+    width: 1400px;
+    height: 700px;
+    margin: 0 auto;
+}
+/*内容框*/
+#main_left {
+    width: 300px;
+    height: 600px;
+    float: left;
+}
+
+#main_right {
+    width: 1000px;
+    height: 600px;
+    float: left;
+}
+
+#GridView1 {
+    width: 900px;
+    height: 500px;
+    margin:10px auto auto 20px;
+}
+/*左部搜索栏*/
+#main1 {
+    width: 300px;
+    height: 80px;
+}
+/*搜索框*/
+#main2 {
+    width: 300px;
+    height: 300px;
+}
+/*分类框*/
+#main3 {
+    width: 300px;
+    height: 220px;
+}
+/*排序框*/
+#main1_1 {
+    width: 180px;
+    height: 50px;
+    float: left;
+    margin: 10px auto auto 10px;
+}
+
+#main1_2 {
+    width: 80px;
+    height: 50px;
+    float: left;
+    margin: 10px auto auto 10px;
+}
+
+#txtmain1 {
+    width: 180px;
+    height: 40px;
+    font-size: 30px;
+}
+
+#btmain1 {
+    width: 80px;
+    height: 50px;
+    font-size: 30px;
+}
+
+#main2_1 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#main2_2 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#main2_3 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#main2_4 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#main2_5 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#main2_6 {
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+
+#Btmain2_1 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#Btmain2_2 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#Btmain2_3 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#Btmain2_4 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#Btmain2_5 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#Btmain2_6 {
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px auto auto 10px;
+}
+
+#stright {
+    float: left;
+    width: 1px;
+    min-height: 600px;
+    background: #000;
+    position: relative;
+    left: 10px;
+}
+/*竖线*/
